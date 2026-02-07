@@ -1,0 +1,5 @@
+{
+  "name": "UniFlow",
+  "description": "Una plataforma minimalista para la gestión de cursos académicos. Control de roles, códigos de acceso, tablero persistente y mensajería integrada.",
+  "requestFramePermissions": []
+}
